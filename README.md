@@ -44,6 +44,8 @@ This project aims to simplify inventory operations and decision-making using a n
 - ⏱ **Reduced Manual Load**: Automated calculations and pivot logic replaced hours of manual stock reconciliation.
 - 📦 **Supplier-Linked Reordering**: Purchase logs helped identify supplier lead times and frequency for better negotiation and planning.
 
+![Uploading image.png…]()
+
 https://drive.google.com/drive/folders/1v13GXWyOnHrJCY_kL8LQU2LjgS2_uPGG?usp=drive_link
 
 ---
