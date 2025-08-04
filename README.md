@@ -17,7 +17,6 @@ This project aims to simplify inventory operations and decision-making using a n
 - 🔁 **Purchase & Sales Logs**: Simple transaction entry sheets linked directly to product and vendor/customer records.
 - 📈 **Pivot-Based Analysis**: Dynamic inventory summaries by SKU, vendor, or time period.
 - 🚨 **Low-Stock Alerts**: Conditional formatting highlights products below reorder level.
-- 🧩 **No Macros or VBA**: 100% formula and pivot-based — easy to audit, share, and modify.
 
 ---
 
