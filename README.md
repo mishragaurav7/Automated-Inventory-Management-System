@@ -1,6 +1,6 @@
 # 📦 Automated Inventory Management System (Excel-Based)
 
-A fully functional, formula-driven inventory management tool built in Microsoft Excel. Designed for small businesses or operations teams, this system enables seamless tracking of products, purchases, sales, and inventory levels with real-time calculations and interactive dashboard summaries — all without macros or VBA.
+A fully functional, formula-driven inventory management tool built in Microsoft Excel. Designed for small businesses or operations teams, this system enables seamless tracking of products, purchases, sales, and inventory levels with real-time calculations and interactive dashboard summaries.
 
 ---
 
